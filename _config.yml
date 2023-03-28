@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: SDVX en français !
+description: Une base de connaissance en français autour de Sound Voltex.
 theme: just-the-docs
+color-scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://kb.sdvx.fr
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Discord Communautaire: https://asso-msn.fr/discord
